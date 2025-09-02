@@ -7,7 +7,17 @@ h2 {
 }
 .para1 {
   font-size: 24px;
-}
+/* }
 div.p {
+  color: blue;
+} */
+#line1:hover {
+  color: yellow;
+  background-color: green;
+}
+.demo:link{
+  color: black;
+}
+.demo:visited{
   color: blue;
 }
